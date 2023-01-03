@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pet CURD test","This method will create new record of Pet","SUCCESS","2023-01-03T20:56:29.421Z[Europe/London]","0.0","9.34"
+"Pet CURD test","This method will fetch existing record of Pet","SUCCESS","2023-01-03T20:56:38.789Z[Europe/London]","0.0","1.42"
+"Pet CURD test","This method will update an existing record of Pet","SUCCESS","2023-01-03T20:56:40.207Z[Europe/London]","0.0","0.69"
+"Pet CURD test","This method will delete an existing record of Pet","SUCCESS","2023-01-03T20:56:40.903Z[Europe/London]","0.0","1.2"
